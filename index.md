@@ -1,7 +1,7 @@
 # Hello World
 This is my home page! My name is Adam Lee and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is criminal justice!
 ## Computer Science Projects
-My github page is https://github.com/Leead2 .
+My github page is [https://github.com/Leead2](https://github.com/Leead2).
 ### CPSC 120
 * Lab 3
 
